@@ -1,0 +1,148 @@
+body{
+    background:linear-gradient(#edba6f, #a2dfc0);
+    font-family: 'Roboto Mono', monospace;
+}
+.prestonpark_title{
+    width:1200px;
+    display:block;
+    background: center;
+    margin:20px auto 0px auto;
+    border-radius: 10px;
+  
+    
+
+}
+    
+.header{
+    display:block;
+    text-align:center;
+    margin-top: 50px;
+    font-size: 80px;
+    color:#765A2A;
+    font-weight: bolder;
+    font-family: 'Metal Mania', cursive;
+    text-shadow: 3px -3px #d0ae33;
+    
+}
+.header:hover{
+    background-image: url(images/firework.gif);
+    
+}
+#header-p{
+    border-style: double;
+    border-color: 5px #000000;
+    padding:50px ;   
+}
+p{
+    color:#000000;
+text-align:center;
+vertical-align:text-top;
+font-size:36px;
+font-family:'Mate SC';
+line-height:auto;
+border-style:hidden;
+outline:none;
+width:1000px;
+margin:1px auto;
+}
+.all{
+    display: flex;
+    justify-content:space-around;
+    margin-top:80px;
+}
+.museum{
+    width:210px;
+    height: 200px;
+    border-radius: 50%;
+}    
+.play_area_c{
+    width:210px;
+    height: 200px;
+    border-radius: 50%;
+}    
+.butterfly-img{
+    width:210px;
+    height: 200px;
+    border-radius: 50%;
+}    
+.museum-h3{
+    font-family: 'mate sc';
+    font-size:30px;
+    margin-left:50px;
+    
+}
+.play_area_h{
+    font-family: 'mate sc';
+    font-size:30px;
+    margin-left:40px;
+}
+.butterfly-h3
+{
+    font-family: 'mate sc';
+    font-size:30px;
+    margin-right:20px;   
+}
+.museum-p{
+color:#000000;
+text-align:center;
+vertical-align:text-top;
+font-size:20px;
+font-family:Mali;
+line-height:auto;
+border-style:hidden;
+outline:none;
+width:200px;
+margin-top:-20px;
+}
+.play_area_p{
+color:#000000;
+text-align:center;
+vertical-align:text-top;
+font-size:20px;
+font-family:Mali;
+line-height:auto;
+border-style:hidden;
+outline:none;
+width:200px;
+margin-top:-20px;
+}
+.butterfly-p{
+color:#000000;
+text-align:center;
+vertical-align:text-top;
+font-size:20px;
+font-family:Mali;
+line-height:auto;
+border-style:hidden;
+outline:none;
+width:200px;
+margin-top:-20px;
+margin-left: px;
+}
+
+#butterfly:hover ,#play_area:hover,#museum:hover{
+    transform: scale(1.2); 
+    transition: 0.5s cubic-bezier(0.075, 0.82, 0.165, 1);
+}
+.p2,.p3,#information{
+    color:#000000;
+text-align:left;
+vertical-align:text-top;
+font-size:20px;
+font-family:Mali;
+line-height:auto;
+border-style:hidden;
+outline:none;
+width:1133px;
+margin-top:40px;
+font-weight: 800;
+margin-bottom:40px;
+}
+
+.p2{
+      border-style: dashed;
+    border-color: 5px #000000;
+    padding:10px ;
+    
+}
+
